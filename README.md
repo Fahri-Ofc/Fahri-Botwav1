@@ -1,3 +1,5 @@
 FOLLOW JAN PAKE NYA DOANG
 
-Edit Nama Owner,Bot,Nomer Owner Di sni <https://github.com/BOTZ4YOU/Fahri-Botwav1/blob/master/setting.json>
+## FOR EDIT OWNER'S NAME, BOTT NAME, AND MORE HERE!!
+
+<p><a href="https://github.com/BOTZ4YOU/Fahri-Botwav1/blob/master/setting.json"> < alt="Klik Here" /></a></p>
